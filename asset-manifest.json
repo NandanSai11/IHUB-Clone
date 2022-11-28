@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/.github.io/IHUB-clone/static/css/main.558dea7a.css",
+    "main.js": "/.github.io/IHUB-clone/static/js/main.d0b047d9.js",
+    "static/js/787.747134ca.chunk.js": "/.github.io/IHUB-clone/static/js/787.747134ca.chunk.js",
+    "static/media/desk-testimonial-bg-4-3.png": "/.github.io/IHUB-clone/static/media/desk-testimonial-bg-4-3.32e9665a0f6cadfb7b1c.png",
+    "static/media/img1.jpg": "/.github.io/IHUB-clone/static/media/img1.5873ece4833556fbf6be.jpg",
+    "static/media/img3(1).jpg": "/.github.io/IHUB-clone/static/media/img3(1).2c1734c8926e8d44a2c6.jpg",
+    "static/media/img2.jpg": "/.github.io/IHUB-clone/static/media/img2.c58591d69c40a1717949.jpg",
+    "static/media/img3(2).jpg": "/.github.io/IHUB-clone/static/media/img3(2).83161c640f147d2ca8f2.jpg",
+    "static/media/logo2.png": "/.github.io/IHUB-clone/static/media/logo2.5097ecd3633a5dfdff70.png",
+    "static/media/ihublogo.png": "/.github.io/IHUB-clone/static/media/ihublogo.2036a5006298e2958d60.png",
+    "static/media/reactjs.jpg": "/.github.io/IHUB-clone/static/media/reactjs.e3484edcd7738eb74fcf.jpg",
+    "static/media/testing.jpg": "/.github.io/IHUB-clone/static/media/testing.13b86c5affc668f47cc3.jpg",
+    "static/media/java.jpg": "/.github.io/IHUB-clone/static/media/java.12f872af2714e075a95a.jpg",
+    "static/media/go.jpg": "/.github.io/IHUB-clone/static/media/go.783dbf87bd513409a700.jpg",
+    "static/media/python.jpg": "/.github.io/IHUB-clone/static/media/python.e5fbff3ad54fd511ee21.jpg",
+    "static/media/mern.jpg": "/.github.io/IHUB-clone/static/media/mern.93628673a188ff75662f.jpg",
+    "static/media/tableau.jpg": "/.github.io/IHUB-clone/static/media/tableau.3dbbb1ab6f5121594ed8.jpg",
+    "static/media/Capture-01.png": "/.github.io/IHUB-clone/static/media/Capture-01.7a4fc07b33868f8c3367.png",
+    "static/media/angular.jpg": "/.github.io/IHUB-clone/static/media/angular.214def929fcd450ca3f6.jpg",
+    "static/media/Capture-03.png": "/.github.io/IHUB-clone/static/media/Capture-03.e2a0874fb1b3a165e31f.png",
+    "index.html": "/.github.io/IHUB-clone/index.html",
+    "main.558dea7a.css.map": "/.github.io/IHUB-clone/static/css/main.558dea7a.css.map",
+    "main.d0b047d9.js.map": "/.github.io/IHUB-clone/static/js/main.d0b047d9.js.map",
+    "787.747134ca.chunk.js.map": "/.github.io/IHUB-clone/static/js/787.747134ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.558dea7a.css",
+    "static/js/main.d0b047d9.js"
+  ]
+}
